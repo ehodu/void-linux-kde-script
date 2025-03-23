@@ -1,7 +1,5 @@
 echo "Welcome to Void Linux KDE installer script!"
 sleep 2s
-echo "Credits must be sent to github.com/tester"
-sleep 3s
 
 echo "What kind of installation you wanna do?"
 echo "1 - Minimal"
